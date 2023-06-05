@@ -1,0 +1,4313 @@
+/Users/mkonidala/Downloads/DOS/lab3-spring22-susmitha-muni/venv/bin/python /Users/mkonidala/Downloads/DOS/lab3-spring22-susmitha-muni/src/catatlog/catalog.py
+socket catalog binded to port 9001
+socket catalog is listening
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+Connected to : 127.0.0.1 : 63150
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 100}
+Connected to : 127.0.0.1 : 63151
+Request is processed
+Connected to : 127.0.0.1 : 63152
+Connected to :Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 2}
+ 127.0.0.1 : 63153
+Response to frontendservice Request is processed
+Connected to : 127.0.0.1 : 63154
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 5}
+{'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 100}
+Request is processed
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 2}
+Request is processedConnected to : 127.0.0.1 : 63155
+Connected to : 127.0.0.1 : 63156
+
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 5}
+Response to frontendservice Request is processed
+{'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 5}Request is processed
+
+Connected to : 127.0.0.1 : 63157
+Response to frontendserviceRequest is processed
+Connected to : 127.0.0.1 : 63158
+Response to frontendservice Connected to : 127.0.0.1{'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 5} : 63159
+ {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 5}
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 100}
+
+Request is processed
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 63160
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 100}
+Request is processed
+Connected to : 127.0.0.1 : 63161
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 4}
+Request is processed
+Connected to : 127.0.0.1 : 63162
+Connected to : 127.0.0.1 : 63163
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 100}
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 100}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 63164
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 100}
+Connected to : 127.0.0.1 : 63165
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 100}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 63166
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 100}
+Request is processed
+Connected to : 127.0.0.1 : 63167
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 100}
+Request is processed
+
+I am here to Restock
+Did restock happen:  False
+Connected to : 127.0.0.1 : 63175
+Connected to : 127.0.0.1 : 63177
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63180
+Connected to : 127.0.0.1 : 63181
+Connected to : 127.0.0.1 : 63182
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63198
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 0}
+Request is processed
+Connected to : 127.0.0.1 : 63200
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63202
+Connected to : 127.0.0.1 : 63203
+Connected to : 127.0.0.1 : 63204Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 96}
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 3}
+Request is processed
+
+Request is processed
+Connected to : 127.0.0.1 : 63207
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 404, 'message': 'Stock Over'}
+Request is processed
+Connected to : 127.0.0.1 : 63211
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63215
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63220
+Response to frontendservice: Connected to : 127.0.0.1 : 63221
+ {'code': 1}
+Request is processed
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63226
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63229
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 3}
+Request is processed
+Connected to : 127.0.0.1 : 63231
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 99}
+Request is processed
+Connected to : 127.0.0.1 : 63236
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 98}
+Connected to : 127.0.0.1 : 63237Request is processed
+
+Connected to : 127.0.0.1 : 63238
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 98}
+Request is processed
+Connected to : 127.0.0.1 : 63239
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 98}
+Request is processed
+Connected to : 127.0.0.1 : 63243
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 98}
+Request is processed
+Connected to : 127.0.0.1 : 63245
+Response to frontendservice:  {'code': 404, 'message': 'Stock Over'}
+Request is processed
+Connected to : 127.0.0.1 : 63248
+Connected to : 127.0.0.1 : 63249
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 0}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 63251
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63255
+Connected to : 127.0.0.1 : 63258
+Connected to : 127.0.0.1 : 63259
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63270
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63277
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 0}
+Connected to : 127.0.0.1 : 63278
+Connected to : 127.0.0.1 : 63280
+Request is processed
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 90}
+Request is processed
+Connected to : 127.0.0.1 : 63281
+Request is processed
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 94}
+Request is processed
+Connected to : 127.0.0.1 : 63284
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 95}
+Request is processed
+Connected to : 127.0.0.1 : 63286
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 95}
+Request is processed
+Connected to : 127.0.0.1 : 63288
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 99}
+Request is processed
+Connected to : 127.0.0.1 : 63289
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63291
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63294
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 85}
+Request is processed
+Connected to : 127.0.0.1 : 63297
+Connected to : 127.0.0.1 : 63300
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63303
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63304
+Connected to : 127.0.0.1 : 63305
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63321
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 91}
+Request is processed
+Connected to : 127.0.0.1 : 63322
+Connected to : 127.0.0.1 : 63323
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 91}
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 96}
+Connected to : 127.0.0.1 : 63324
+Request is processed
+Response to frontendservice Request is processed
+{'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 96}
+Request is processed
+Connected to : 127.0.0.1 : 63326
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 93}
+Request is processed
+Connected to : 127.0.0.1 : 63327
+Connected to : 127.0.0.1 : 63328
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 84}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 63329
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 84}
+Request is processed
+Connected to : 127.0.0.1 : 63333
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63337
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 91}
+Request is processed
+Connected to : 127.0.0.1 : 63338
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 91}
+Request is processed
+Connected to : 127.0.0.1 : 63343
+Connected to : 127.0.0.1 : 63344
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63345
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 94}
+Request is processed
+Connected to : 127.0.0.1 : 63351
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 86}
+Request is processed
+Connected to : 127.0.0.1 : 63354
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63357
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 79}
+Request is processed
+Connected to : 127.0.0.1 : 63360
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63365
+Connected to : 127.0.0.1 : 63366
+Connected to : 127.0.0.1 : 63367
+Response to frontendservice:  {'code': 1}Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 93}
+
+Request is processed
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63374
+Connected to : 127.0.0.1 : 63375
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 73}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 63378
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 73}
+Request is processed
+Connected to : 127.0.0.1 : 63382
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63384
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63388
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63391
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63396
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63405
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 79}
+Request is processed
+Connected to : 127.0.0.1 : 63409
+Connected to : 127.0.0.1 : 63411
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 90}
+Request is processed
+Connected to : 127.0.0.1 : 63412
+Connected to : 127.0.0.1 : 63413
+Connected to : 127.0.0.1 : 63414
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 90}
+Response to frontendservice Request is processed
+Request is processed
+{'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 90}
+Request is processed
+Connected to : 127.0.0.1 : 63419
+Connected to : 127.0.0.1 Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 0}
+Request is processed
+: 63421
+Connected to : 127.0.0.1 : 63423
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63425
+Response to frontendservice:  {'code': 1}Response to frontendservice
+ {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 90}
+Request is processedRequest is processed
+
+Connected to : 127.0.0.1 : 63431
+Connected to : 127.0.0.1 : 63432
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 73}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63437
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 89}
+Connected to : 127.0.0.1 : 63438
+Request is processed
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 85}
+Request is processed
+Connected to : 127.0.0.1 : 63441
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63444
+Connected to : 127.0.0.1 : 63446
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63449
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63453
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 87}
+Request is processed
+Connected to : 127.0.0.1 : 63457
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 70}
+Request is processed
+Connected to : 127.0.0.1 : 63463
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63466
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63471
+Connected to : 127.0.0.1 : 63472
+Connected to : 127.0.0.1 : 63473Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 78}
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 72}
+Request is processed
+
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63478
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 91}
+Request is processed
+Connected to : 127.0.0.1 : 63480
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63482
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 68}
+Request is processed
+Connected to : 127.0.0.1 : 63485
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63490
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 76}
+Request is processed
+Connected to : 127.0.0.1 : 63493
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 87}
+Request is processed
+Connected to : 127.0.0.1 : 63495
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63500
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63503
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 84}
+Request is processed
+Connected to : 127.0.0.1 : 63505
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 88}
+Request is processed
+Connected to : 127.0.0.1 : 63507
+Response to frontendservice:  {'code': 1}
+Request is processed
+
+I am here to Restock
+Did restock happen:  True
+Toys that are restocked: ['Tux', 'Elephant', 'Bird', 'Twister']
+
+Connected to : 127.0.0.1 : 63518
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 100}
+Request is processed
+Connected to : 127.0.0.1 : 63519
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 100}
+Request is processed
+Connected to : 127.0.0.1 : 63521
+Connected to : 127.0.0.1 : 63522
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 100}
+Request is processed
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 70}
+Connected to : 127.0.0.1 :Request is processed
+ 63523
+Connected to : 127.0.0.1 : 63524
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 100}
+Connected to : 127.0.0.1 : 63527
+Connected to : 127.0.0.1 : 63528
+Request is processed
+Response to frontendservice Connected to : 127.0.0.1 : 63529
+{'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 100}
+Request is processed
+Connected to : 127.0.0.1 : 63532
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63534
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63549
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 100}
+Request is processed
+Connected to : 127.0.0.1 : 63550
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 87}
+Connected to : 127.0.0.1 : 63551
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 87}
+Request is processed
+Connected to : 127.0.0.1 : 63552
+Request is processed
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 95}
+Request is processed
+Connected to : 127.0.0.1 : 63554
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 97}
+Request is processed
+Connected to : 127.0.0.1 : 63555
+Connected to : 127.0.0.1 :Response to frontendservice:  {'code': 1}
+ 63557
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63561
+Connected to : 127.0.0.1 : 63562
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63564
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63581
+Connected to : 127.0.0.1 : 63582
+Response to frontendservice:  {'code': 1}
+Connected to : Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 95}
+127.0.0.1 :Request is processed
+ 63584
+Request is processed
+Connected to : 127.0.0.1 : 63585
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63588
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63591
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63605
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 93}
+Request is processed
+Connected to : 127.0.0.1 : 63606
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 92}
+Request is processed
+Connected to : 127.0.0.1 : 63607
+Connected to : 127.0.0.1 : 63608
+Connected to : 127.0.0.1 :Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 71}
+ 63609Request is processed
+Response to frontendservice 
+{'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 93}
+Request is processed
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 79}
+Request is processed
+Connected to : 127.0.0.1 : 63610
+Connected to : 127.0.0.1 : 63611
+Response to frontendservice Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 86}
+Request is processed
+{'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 67}
+Request is processed
+Connected to : 127.0.0.1 : 63615
+Connected to : 127.0.0.1 : 63616
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : Response to frontendservice:  {'code': 1}
+63619
+Connected to : 127.0.0.1Request is processed : 63620
+
+Connected to : 127.0.0.1 : 63621
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63637
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 77}
+Request is processed
+Connected to : 127.0.0.1 : 63638
+Connected to : 127.0.0.1 : 63639
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 66}
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 83}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 63642
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63645
+Connected to : 127.0.0.1 : 63647
+Connected to : 127.0.0.1 : 63648
+Connected to : 127.0.0.1 : 63649
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63665
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 65}
+Request is processed
+Connected to : 127.0.0.1 : 63666
+Response to frontendservice Connected to : 127.0.0.1 : 63667
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 99}
+Request is processed
+{'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 70}
+Request is processed
+Connected to : 127.0.0.1 : 63668
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 80}
+Request is processed
+Connected to : 127.0.0.1 : 63670
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 88}Connected to : 127.0.0.1 : 63671
+
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 63}Connected to : 
+127.0.0.1 : Request is processed
+63673
+Request is processed
+Connected to : 127.0.0.1 : 63674
+Connected to : 127.0.0.1 : 63675
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 Response to frontendservice:  Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 63}
+: 63677
+Request is processed
+{'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63681
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63683
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63697
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 59}
+Request is processed
+Connected to : 127.0.0.1 : 63698
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 89}
+Request is processed
+Connected to : 127.0.0.1 : 63700
+Connected to : 127.0.0.1 : 63701
+Connected to : 127.0.0.1 : 63703
+Connected to : 127.0.0.1Response to frontendservice: Response to frontendservice : {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 86}
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 86}
+ {'code': 1}
+ Request is processed
+63704
+Request is processed
+Connected to : 127.0.0.1 :Request is processed
+ 63705
+Connected to : 127.0.0.1 : 63707
+Connected to : 127.0.0.1 : 63708
+Response to frontendservice:  {'code': 1}
+Response to frontendserviceResponse to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 61}
+Request is processed
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 69}
+Request is processed
+Request is processed
+ {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 86}
+Request is processed
+Connected to : 127.0.0.1 : 63716
+Connected to : 127.0.0.1 : 63717
+Connected to : Response to frontendservice: 127.0.0.1 : 63718
+ {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63722
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63731
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63737
+Response to frontendservice Connected to : 127.0.0.1 {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 72}
+: 63738
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 72}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 63740
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 50}
+Request is processed
+Connected to : 127.0.0.1 : 63741
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 50}
+Request is processed
+Connected to : 127.0.0.1 : 63743
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 88}
+Request is processed
+Connected to : 127.0.0.1 : 63745
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 80}
+Request is processed
+Connected to : 127.0.0.1 : 63746
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63748
+Connected to : 127.0.0.1 : 63750
+Connected to : 127.0.0.1 : 63751
+Response to frontendservice: Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 68}
+ {'code': 1}Request is processed
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 82}
+Connected to : 127.0.0.1
+ : 63752
+Request is processed
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63756
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63761
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63769
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 73}
+Request is processed
+Connected to : 127.0.0.1 : 63773
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63777
+Connected to : 127.0.0.1 : 63778
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63780
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 59}Connected to : 127.0.0.1 
+:Request is processed
+ 63781
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63785
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63799
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 65}
+Request is processed
+Connected to : 127.0.0.1 : 63800
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 67}
+Request is processed
+Connected to : 127.0.0.1 : 63801
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 67}
+Request is processed
+Connected to : 127.0.0.1 : 63803
+Connected to : 127.0.0.1 : 63805
+Connected to : 127.0.0.1 : 63807
+Response to frontendservice: Response to frontendserviceConnected to :  {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 58}
+127.0.0.1  {'code': 1}
+: 63809
+Request is processed
+Connected to : 127.0.0.1 : 63810
+Response to frontendservice:  {'code': 1}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 63813
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63825
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 71}
+Request is processed
+Connected to : 127.0.0.1 : 63829
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63831
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 79}
+Connected to : 127.0.0.1 : 63832Request is processed
+
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 45}
+Request is processed
+Connected to : 127.0.0.1 : 63836
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 60}
+Request is processed
+Connected to : 127.0.0.1 : 63838
+Connected to : 127.0.0.1 : 63840
+Connected to : 127.0.0.1 : 63842
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Connected to : 127.0.0.1 : 63843
+Response to frontendserviceRequest is processed {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 62}
+
+Request is processed
+Connected to : 127.0.0.1 : 63846
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63848
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63863
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 96}
+Request is processed
+Connected to : 127.0.0.1 : 63864
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 54}
+Request is processed
+Connected to : 127.0.0.1 : 63866
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 78}
+Request is processed
+Connected to : 127.0.0.1 : 63867
+Connected to : 127.0.0.1 : 63868
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 61}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 63870
+Connected to : 127.0.0.1 : 63871
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 61}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63873
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 40}
+Request is processed
+Connected to : 127.0.0.1 : 63874
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 75}
+Request is processed
+Connected to : 127.0.0.1 : 63877
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63882
+Connected to : 127.0.0.1 : 63884
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63889
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 95}
+Request is processed
+Connected to : 127.0.0.1 : 63891
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 69}
+Request is processed
+Connected to : 127.0.0.1 : 63897
+Connected to : 127.0.0.1 : 63898
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63901
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 93}
+Request is processed
+Connected to : 127.0.0.1 : 63902
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 71}
+Request is processed
+Connected to : 127.0.0.1 : 63905
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 57}
+Request is processed
+Connected to : 127.0.0.1 : 63906
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 58}
+Request is processed
+Connected to : 127.0.0.1 : 63910
+Connected to : 127.0.0.1 : 63913
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63915
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 71}
+Request is processed
+Connected to : 127.0.0.1 : 63916
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 71}
+Request is processed
+Connected to : 127.0.0.1 : 63920
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63924
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63929
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 52}
+Request is processed
+Connected to : 127.0.0.1 : 63931
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 36}
+Request is processed
+Connected to : 127.0.0.1 : 63935
+Connected to : 127.0.0.1 : 63936
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 50}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 63940
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 67}
+Request is processed
+Connected to : 127.0.0.1 : 63942
+Connected to : 127.0.0.1 : 63944
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63946
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63950
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63956
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63964
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 50}
+Request is processed
+Connected to : 127.0.0.1 : 63968
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63970
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 68}
+Request is processed
+Connected to : 127.0.0.1 : 63974
+Connected to : 127.0.0.1 : 63975
+Connected to : 127.0.0.1 : 63976
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 84}
+Request is processedRequest is processed
+
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63981
+Connected to : 127.0.0.1 : 63984
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63989
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 40}
+Request is processed
+Connected to : 127.0.0.1 : 63993
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 63998
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 68}
+Connected to : 127.0.0.1 : 63999
+Request is processed
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 80}
+Request is processed
+Connected to : 127.0.0.1 : 64004
+Connected to : 127.0.0.1 : 64006
+Connected to : 127.0.0.1 : 64007
+Connected to : 127.0.0.1 : 64008
+Response to frontendservice: Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 63}
+ {'code': 1}
+Request is processed
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 64}
+Request is processed
+Connected to : 127.0.0.1 : 64011
+Connected to : 127.0.0.1 : 64013
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 47}
+Request is processed
+Connected to : 127.0.0.1 : 64017
+Connected to : 127.0.0.1 : 64020
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64027
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64033
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64035
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 62}
+Request is processed
+Connected to : 127.0.0.1 : 64039
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64041
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 61}
+Request is processed
+Connected to : 127.0.0.1 : 64045
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64049
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64053
+Connected to : 127.0.0.1 : 64055
+Response to frontendservice:  Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 93}
+{'code': 1}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 64058
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64066
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64069
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 36}
+Request is processed
+Connected to : 127.0.0.1 : 64071
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 92}
+Request is processed
+Connected to : 127.0.0.1 : 64075
+Response to frontendserviceConnected to : 127.0.0.1 : 64076
+ {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 90}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64079
+Connected to : 127.0.0.1 : 64080
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 74}
+Request is processed
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 74}
+Request is processed
+Connected to : 127.0.0.1 : 64081
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 35}
+Request is processed
+Connected to : 127.0.0.1 : 64086
+Connected to : 127.0.0.1 : 64088
+Response to frontendservice:  Connected to : 127.0.0.1 : 64090
+{'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64092
+Response to frontendservice:  {'code': 1}
+Response to frontendservice Request is processed{'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 57}
+
+Request is processed
+Connected to : 127.0.0.1 : 64094
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64096
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 58}
+Request is processed
+Connected to : 127.0.0.1 : 64101
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64110
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 89}
+Request is processed
+Connected to : 127.0.0.1 : 64112
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 44}
+Request is processed
+Connected to : 127.0.0.1 : 64114
+Connected to : 127.0.0.1 : 64115
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 60}
+Request is processed
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 34}
+Request is processed
+Connected to : 127.0.0.1 : 64116
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 30}
+Request is processed
+Connected to : 127.0.0.1 : 64118
+Connected to : 127.0.0.1 : 64120
+Connected to : 127.0.0.1 : 64121
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 30}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 64124
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64127
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 58}
+Request is processed
+Connected to : 127.0.0.1 : 64129
+Connected to : 127.0.0.1 :Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 88}
+ 64130
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64135
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64142
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64147
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 84}
+Request is processed
+Connected to : 127.0.0.1 : 64149
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 84}
+Request is processed
+Connected to : 127.0.0.1 : 64150
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 56}
+Request is processed
+Connected to : 127.0.0.1 : 64151
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 56}
+Request is processed
+Connected to : 127.0.0.1 : 64156
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64157
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 53}
+Connected to : 127.0.0.1 : 64158
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64161
+Connected to : 127.0.0.1 : 64163
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 86}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 64168
+Connected to : 127.0.0.1 : 64169
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64178
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64183
+Connected to : 127.0.0.1 : 64185
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 31}
+Request is processed
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 31}
+Request is processed
+Connected to : 127.0.0.1 : 64189
+Connected to : 127.0.0.1 : 64190
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64193
+Response to frontendservice:  {'code': 1}
+Connected to : 127.0.0.1 : 64195
+Connected to : 127.0.0.1 : 64196
+Response to frontendservice Request is processed
+{'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 72}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 85}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 64201
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64203
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64211
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 53}
+Request is processed
+Connected to : 127.0.0.1 : 64213
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 53}
+Request is processed
+Connected to : 127.0.0.1 : 64218
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64220
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 83}
+Request is processed
+Connected to : 127.0.0.1 : 64222
+Connected to : 127.0.0.1 : 64224
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 24}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64228
+Connected to : 127.0.0.1 : 64229
+Response to frontendservice: Connected to : 127.0.0.1Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 44}
+ : 64231
+ Request is processed
+{'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64235
+Connected to : 127.0.0.1 : 64237
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 27}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 64241
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64247
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 79}
+Request is processed
+Connected to : 127.0.0.1 : 64249
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 71}
+Request is processed
+Connected to : 127.0.0.1 : 64252
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 19}
+Request is processed
+Connected to : 127.0.0.1 : 64256
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64258
+Connected to : 127.0.0.1 : 64259Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 55}
+Request is processed
+
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 42}
+Request is processed
+Connected to : 127.0.0.1 : 64260
+Connected to : 127.0.0.1 : 64261
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 81}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64266
+Connected to : 127.0.0.1 : 64268
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64271
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64281
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 76}
+Request is processed
+Connected to : 127.0.0.1 : 64283
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 46}
+Request is processed
+Connected to : 127.0.0.1 : 64284
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 18}
+Request is processed
+Connected to : 127.0.0.1 : 64287
+Connected to : 127.0.0.1 : 64288
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 46}Request is processed
+
+Connected to : 127.0.0.1 : 64291
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64294
+Connected to : 127.0.0.1 : 64295
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64298
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64312
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64314
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 79}
+Request is processed
+Connected to : 127.0.0.1 : 64315
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 79}
+Request is processed
+Connected to : 127.0.0.1 : 64316
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 69}
+Request is processed
+Connected to : 127.0.0.1 : 64320
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 37}
+Connected to : 127.0.0.1 : 64321
+Request is processed
+Connected to : 127.0.0.1 : 64324
+Connected to : 127.0.0.1 : 64326
+Connected to : 127.0.0.1 : 64327
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64328
+Response to frontendservice:  {'code': 1}Response to frontendservice 
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 40}
+{'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 51}Request is processed
+
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 64334
+Connected to : 127.0.0.1 : 64337
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64344
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64350
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 42}
+Connected to : 127.0.0.1 : 64351
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 19}Request is processed
+
+Request is processed
+Connected to : 127.0.0.1 : 64356
+Connected to : 127.0.0.1 : 64357
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64359
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 67}
+Request is processed
+Connected to : 127.0.0.1 : 64363
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 50}
+Connected to : 127.0.0.1 : 64364
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64366
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 18}
+Request is processed
+Connected to : 127.0.0.1 : 64370
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64373
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 16}
+Request is processed
+Connected to : 127.0.0.1 : 64377
+Connected to : 127.0.0.1 : 64378
+Connected to : 127.0.0.1 : 64380
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 41}
+Request is processed
+Response to frontendservice Request is processed
+{'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 41}
+Request is processed
+Connected to : 127.0.0.1 : 64383
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 76}
+Request is processed
+Connected to : 127.0.0.1 : 64385
+Connected to : 127.0.0.1 : 64387
+Response to frontendservice:  {'code': 1}Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 14}
+
+Request is processedRequest is processed
+
+Connected to : 127.0.0.1 : 64390
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64393
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 12}
+Request is processed
+Connected to : 127.0.0.1 : 64395
+Connected to : 127.0.0.1 : 64396
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 51}
+Request is processed
+Connected to : 127.0.0.1 : 64401
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64405
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 75}
+Request is processed
+Connected to : 127.0.0.1 : 64409
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64412
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64417
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64420
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64423
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 13}
+Request is processed
+Connected to : 127.0.0.1 : 64425
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 70}
+Request is processed
+Connected to : 127.0.0.1 : 64430
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64435
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 7}
+Request is processed
+Connected to : 127.0.0.1 : 64438
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 66}
+Request is processed
+Connected to : 127.0.0.1 : 64440
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64444
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64445
+Connected to : 127.0.0.1 : 64447
+Connected to : 127.0.0.1 : 64448
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 39}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 64454
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64464
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 6}
+Request is processed
+Connected to : 127.0.0.1 : 64468
+Connected to : 127.0.0.1 : 64469
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 63}
+Request is processed
+Connected to : 127.0.0.1 : 64472
+Connected to : 127.0.0.1 : 64473
+Connected to : 127.0.0.1 : 64474
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 37}
+Request is processed
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 37}
+Connected to : 127.0.0.1 : 64477
+Request is processed
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64483
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64485
+Response to frontendservice:  {'code': 1}
+Connected to : 127.0.0.1 : 64486
+Request is processed
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 63}
+Request is processed
+Connected to : 127.0.0.1 : 64489
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 9}
+Request is processed
+Connected to : 127.0.0.1 : 64491
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 66}
+Request is processed
+Connected to : 127.0.0.1 : 64495
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64497
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 4}
+Request is processed
+Connected to : 127.0.0.1 : 64499
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 50}
+Request is processed
+Connected to : 127.0.0.1 : 64501
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 48}
+Request is processed
+Connected to : 127.0.0.1 : 64502
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 30}
+Request is processed
+Connected to : 127.0.0.1 : 64507
+Response to frontendservice:  {'code': 1}
+Connected to : 127.0.0.1Request is processed
+ : 64509
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64514
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 36}
+Request is processed
+Connected to : 127.0.0.1 : 64515
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64520
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64524
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64529
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64534
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64538
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 2}
+Request is processed
+Connected to : 127.0.0.1 : 64540
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 46}
+Request is processed
+Connected to : 127.0.0.1 : 64544
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 8}
+Request is processed
+Connected to : 127.0.0.1 : 64546
+Connected to : 127.0.0.1 : 64547
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 63}
+Request is processed
+Connected to : 127.0.0.1 : 64552
+Connected to : 127.0.0.1 : 64553
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 43}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64555
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64558
+Connected to : 127.0.0.1 : 64561
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64566
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64576
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 38}
+Request is processed
+Connected to : 127.0.0.1 : 64579
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 59}
+Request is processed
+Connected to : 127.0.0.1 : 64580
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 32}
+Request is processed
+Connected to : 127.0.0.1 : 64581
+Connected to : 127.0.0.1 : 64582
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 43}
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 32}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 64583
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 30}
+Request is processed
+Connected to : 127.0.0.1 : 64586
+Connected to : 127.0.0.1 : 64588
+Connected to : 127.0.0.1 : 64589
+Connected to : Response to frontendserviceResponse to frontendservice:  {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 59}
+ {'code': 1}
+127.0.0.1 : 64590
+Request is processedRequest is processed
+
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64594
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64605
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64609
+Connected to : 127.0.0.1 : 64612
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64616
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64620
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 58}
+Request is processed
+Connected to : 127.0.0.1 : 64623
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64628
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 52}
+Request is processed
+Connected to : 127.0.0.1 : 64632
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 40}
+Request is processed
+Connected to : 127.0.0.1 : 64634
+Connected to : 127.0.0.1 : 64635
+Connected to : 127.0.0.1 : 64636
+Response to frontendservice:  {'code': 1}Response to frontendserviceResponse to frontendservice 
+{'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 29}
+ {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 57}
+Request is processed
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 64639
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 53}
+Request is processed
+Connected to : 127.0.0.1 : 64642
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64646
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 48}
+Request is processed
+Connected to : 127.0.0.1 : 64648
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64652
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 30}
+Request is processed
+Connected to : 127.0.0.1 : 64654
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64658
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 4}
+Request is processed
+Connected to : 127.0.0.1 : 64660
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64665
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64670
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64675
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64680
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64684
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 52}
+Request is processed
+Connected to : 127.0.0.1 : 64686
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64690
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 27}
+Request is processed
+Connected to : 127.0.0.1 : 64692
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64697
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64701
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 36}
+Request is processed
+Connected to : 127.0.0.1 : 64703
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64708
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64712
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64713
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 26}
+Request is processed
+Connected to : 127.0.0.1 : 64715
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64719
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 53}
+Request is processed
+Connected to : 127.0.0.1 : 64721
+Response to frontendservice:  {'code': 1}
+Request is processed
+
+I am here to Restock
+Did restock happen:  True
+Toys that are restocked: ['Whale', 'Lego']
+
+Connected to : 127.0.0.1 : 64731
+Connected to : 127.0.0.1 : 64733
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 44}
+Request is processed
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 51}
+Request is processed
+Connected to : 127.0.0.1 : 64735
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 23}
+Request is processed
+Connected to : 127.0.0.1 : 64736
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 100}
+Request is processed
+Connected to : 127.0.0.1 : 64739
+Connected to : 127.0.0.1 : 64740
+Connected to : 127.0.0.1 : 64741
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 100}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64746
+Connected to : 127.0.0.1 : 64747
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64748
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64763
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 49}
+Request is processed
+Connected to : 127.0.0.1 : 64764
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 49}
+Request is processed
+Connected to : 127.0.0.1 : 64765
+Connected to : 127.0.0.1 : 64766
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 25}
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 37}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 64768
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64771
+Connected to : 127.0.0.1 : 64773
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64776
+Response to frontendservice:  Connected to : 127.0.0.1 :{'code': 1}
+ 64777
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64792
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 44}
+Request is processed
+Connected to : 127.0.0.1 : 64794
+Connected to : 127.0.0.1 : 64796
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 97}
+ : 64798
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64800
+Connected to : 127.0.0.1 : 64802
+Connected to : 127.0.0.1 : 64804
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64819
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 99}
+Request is processed
+Connected to : 127.0.0.1 : 64820
+Connected to : 127.0.0.1 : 64821
+Connected to :Response to frontendservice Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 38}
+{'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 42}
+ 127.0.0.1 : 64822
+Connected to : 127.0.0.1Response to frontendservice  Request is processed
+{'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 38}
+: Request is processed
+64823Request is processed
+
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 22}
+Connected to : 127.0.0.1 : 64825
+Request is processed
+Connected to : 127.0.0.1 : 64828
+Connected to : 127.0.0.1 : 64829
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64831
+Response to frontendservice:  {'code': 1}
+Response to frontendserviceRequest is processed
+ {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 34}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Connected to : 127.0.0.1 : 64832
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64838
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64848
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 20}
+Request is processed
+Connected to : 127.0.0.1 : 64850
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 45}
+Request is processed
+Connected to : 127.0.0.1 : 64852
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 95}
+Connected to : 127.0.0.1 : 64853
+Request is processed
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 34}
+Request is processed
+Connected to : 127.0.0.1 : 64854
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 29}
+Connected to : 127.0.0.1 : Request is processed
+64855
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 95}
+Request is processed
+Connected to : 127.0.0.1 : 64857
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64860
+Connected to : 127.0.0.1 : 64862
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64865
+Response to frontendservice:  {'code': 1}
+Connected to : 127.0.0.1 : 64866
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64881
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 28}
+Request is processed
+Connected to : 127.0.0.1 : 64882
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 41}
+Request is processed
+Connected to : 127.0.0.1 : 64883
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 19}
+Connected to : 127.0.0.1Request is processed : 64885
+
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 25}
+Request is processed
+Connected to : 127.0.0.1 : 64886
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 19}
+Connected to : 127.0.0.1 : 64888
+Request is processed
+Connected to : 127.0.0.1 : 64889
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64892
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64894
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64896
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64911
+Connected to : 127.0.0.1 : 64912
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 38}
+Request is processed
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 23}
+Request is processed
+Connected to : 127.0.0.1 : 64913
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 23}
+Request is processed
+Connected to : 127.0.0.1 : 64914
+Response to frontendserviceConnected to : 127.0.0.1 : 64916
+ {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 19}
+Request is processed
+Connected to : 127.0.0.1 : 64919
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64922
+Connected to : 127.0.0.1 : 64923
+Connected to : 127.0.0.1 : 64924
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64940
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 13}
+Request is processed
+Connected to : 127.0.0.1 : 64941
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 13}
+Request is processed
+Connected to : 127.0.0.1 : 64943
+Connected to : 127.0.0.1 : 64944
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 33}Connected to : 127.0.0.1 : 64945Request is processed
+
+
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 29}
+Request is processedRequest is processed
+
+Connected to : 127.0.0.1 : 64949
+Connected to : 127.0.0.1 : 64951
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64954
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64955
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64969
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 18}
+Request is processed
+Connected to : 127.0.0.1 : 64970
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 18}
+Request is processed
+Connected to : 127.0.0.1 : 64972
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 98}
+Request is processed
+Connected to : 127.0.0.1 : 64973
+Connected to : 127.0.0.1 : 64975
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64976
+Connected to : 127.0.0.1 : 64978
+Connected to : 127.0.0.1 : 64979
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 17}
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 17}
+Request is processedRequest is processed
+Request is processed
+
+Connected to : 127.0.0.1 : 64983
+Response to frontendservice:  Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 32}
+Request is processed{'code': 1}
+
+Request is processed
+Connected to : 127.0.0.1 : 64985
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64989
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 64991
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 37}
+Request is processed
+Connected to : 127.0.0.1 : 64995
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65003
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 9}
+Request is processed
+Connected to : 127.0.0.1 : 65007
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65009
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 6}
+Request is processed
+Connected to : 127.0.0.1 : 65013
+Connected to : 127.0.0.1 : 65014
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 29}
+Connected to : 127.0.0.1 : 65015
+Request is processed
+Response to frontendservice:  {'code': 1}
+Connected to : 127.0.0.1 : 65018
+Response to frontendservice:  {'code': 404, 'message': 'Stock Over'}
+Request is processed
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65020
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 40}
+Request is processed
+Connected to : 127.0.0.1 : 65025
+Connected to : 127.0.0.1 : 65026
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 404, 'message': 'Stock Over'}
+Request is processed
+Connected to : 127.0.0.1 : 65031
+Connected to : 127.0.0.1 : 65032
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65035
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 18}
+Request is processed
+Connected to : 127.0.0.1 : 65039
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65047
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 34}
+Request is processed
+Connected to : 127.0.0.1 : 65051
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65053
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 4}
+Request is processed
+Connected to : 127.0.0.1 : 65055
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65059
+Connected to : 127.0.0.1 : 65060
+Response to frontendservice:  {'code': 1}
+Connected to : 127.0.0.1 : 65062
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65065
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 96}
+Request is processed
+Connected to : 127.0.0.1 : 65067
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 94}
+Request is processed
+Connected to : 127.0.0.1 : 65071
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65075
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 16}
+Request is processed
+Connected to : 127.0.0.1 : 65079
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 0}
+Connected to : 127.0.0.1 : 65080
+Request is processed
+Connected to : 127.0.0.1 : 65083
+Response to frontendservice:  {'code': 1}
+Request is processedResponse to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 1}
+
+Request is processed
+Connected to : 127.0.0.1 : 65086
+Connected to : 127.0.0.1 : 65087
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 32}
+Request is processed
+Connected to : 127.0.0.1 : 65088
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 28}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65092
+Connected to : 127.0.0.1 : 65093
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 13}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 65097
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 39}
+Connected to : 127.0.0.1 : 65098
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 22}
+Request is processedRequest is processed
+
+Connected to : 127.0.0.1 : 65101
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 0}
+Request is processed
+Connected to : 127.0.0.1 : 65104
+Connected to : 127.0.0.1 : 65105
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 92}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 65108
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 30}
+Request is processed
+Connected to : 127.0.0.1 : 65110
+Connected to : 127.0.0.1 : 65113
+Connected to : 127.0.0.1 : 65114
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65119
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65127
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65133
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 36}
+Request is processed
+Connected to : 127.0.0.1 : 65137
+Connected to : 127.0.0.1 : 65139
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65141
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 8}
+Request is processed
+Connected to : 127.0.0.1 : 65143
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 12}
+Request is processed
+Connected to : 127.0.0.1 : 65145
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65148
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65154
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 90}
+Request is processed
+Connected to : 127.0.0.1 : 65157
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65162
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 5}
+Request is processed
+Connected to : 127.0.0.1 : 65163
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 9}
+Request is processed
+Connected to : 127.0.0.1 : 65169
+Connected to : 127.0.0.1 : 65170
+Connected to : 127.0.0.1 : 65171
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Response to frontendservice:  {'code': 404, 'message': 'Stock Over'}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 65173
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 87}
+Request is processed
+Connected to : 127.0.0.1 : 65178
+Connected to : 127.0.0.1 : 65179
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65181
+Response to frontendservice: Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 4}
+ {'code': 1}Request is processed
+
+Request is processed
+Connected to : 127.0.0.1 : 65184
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 33}
+Request is processed
+Connected to : 127.0.0.1 : 65188
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65193
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 93}
+Request is processed
+Connected to : 127.0.0.1 : 65194
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 26}
+Request is processed
+Connected to : 127.0.0.1 : 65199
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 20}
+Request is processed
+Connected to : 127.0.0.1 : 65201
+Connected to : 127.0.0.1 : 65202
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 79}
+Response to frontendserviceConnected to :  {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 21}127.0.0.1
+ : Request is processed
+65203
+Connected to : 127.0.0.1 : 65205
+Request is processed
+Connected to : 127.0.0.1 : 65206
+Connected to : Response to frontendservice: 127.0.0.1 {'code': 1}
+ : 65208
+Request is processed
+Connected to : 127.0.0.1 : 65210
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 31}
+Request is processed
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65216
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65225
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 22}
+Request is processed
+Connected to : 127.0.0.1 : 65227
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 75}
+Request is processed
+Connected to : 127.0.0.1 : 65232
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 19}
+Request is processed
+Connected to : 127.0.0.1 : 65233
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65237
+Connected to : 127.0.0.1 : 65238
+Connected to : 127.0.0.1 : 65240
+Response to frontendservice:  {'code': 1}Connected to : 127.0.0.1 : 65241
+
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65254
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 6}
+Request is processed
+Connected to : 127.0.0.1 : 65258
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 11}
+Request is processed
+Connected to : 127.0.0.1 : 65259
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65261
+Connected to : 127.0.0.1 : 65262
+Connected to : 127.0.0.1 : 65264
+Response to frontendservice: Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 15} {'code': 1}
+
+Request is processed
+Request is processed
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 15}
+Request is processed
+Connected to : 127.0.0.1 : 65266
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 15}
+Request is processed
+Connected to : 127.0.0.1 : 65269
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65272
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65276
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65282
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65287
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65291
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 13}
+Request is processed
+Connected to : 127.0.0.1 : 65294
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 29}
+Request is processed
+Connected to : 127.0.0.1 : 65296
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 13}
+Request is processed
+Connected to : 127.0.0.1 : 65300
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65302
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 73}
+Request is processed
+Connected to : 127.0.0.1 : 65303
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 13}Connected to : 127.0.0.1 : 
+Request is processed
+65304
+Connected to : 127.0.0.1 : 65306
+Connected to : 127.0.0.1 : 65308
+Response to frontendservice:  Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 0}Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 0}
+
+Request is processed
+Request is processed
+{'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65310
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 7}
+Request is processed
+Connected to : 127.0.0.1 : 65315
+Connected to : 127.0.0.1 : 65317
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65318
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65323
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 27}
+Request is processed
+Connected to : 127.0.0.1 : 65327
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65331
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 89}
+Request is processed
+Connected to : 127.0.0.1 : 65334
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65336
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 3}
+Request is processed
+Connected to : 127.0.0.1 : 65337
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65340
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65343
+Connected to : 127.0.0.1 : 65344
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 22}
+Request is processed
+Connected to : 127.0.0.1 : 65345
+Response to frontendservice:  {'code': 404, 'message': 'Stock Over'}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65349
+Response to frontendservice:  {'code': 404, 'message': 'Stock Over'}
+Request is processed
+Connected to : 127.0.0.1 : 65350
+Connected to : 127.0.0.1 : 65352
+Response to frontendservice:  {'code': 1}Response to frontendservice:  {'code': 404, 'message': 'Stock Over'}
+
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 65354
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 11}
+Request is processed
+Connected to : 127.0.0.1 : 65359
+Connected to : 127.0.0.1 : 65361
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65368
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65373
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65376
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 71}
+Request is processed
+Connected to : 127.0.0.1 : 65378
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65380
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65383
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65390
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65393
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 7}
+Request is processed
+Connected to : 127.0.0.1 : 65397
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65402
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65404
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 65}
+Request is processed
+Connected to : 127.0.0.1 : 65408
+Connected to : 127.0.0.1 : 65409
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 13}
+Request is processed
+Connected to : 127.0.0.1 : 65414
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65417
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 0}
+Request is processed
+Connected to : 127.0.0.1 : 65419
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 85}
+Request is processed
+Connected to : 127.0.0.1 : 65423
+Connected to : 127.0.0.1 : 65424
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 3}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 65428
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 0}
+Request is processed
+Connected to : 127.0.0.1 : 65429
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 10}
+Connected to : 127.0.0.1 : 65430
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65434
+Response to frontendservice:  {'code': 404, 'message': 'Stock Over'}
+Connected to : 127.0.0.1 : 65436
+Request is processed
+Response to frontendservice:  {'code': 404, 'message': 'Stock Over'}
+Request is processed
+Connected to : 127.0.0.1 : 65437
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 9}
+Request is processed
+Connected to : 127.0.0.1 : 65442
+Connected to : 127.0.0.1 : 65443
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65445
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 63}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 65448
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65452
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65458
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 5}
+Request is processed
+Connected to : 127.0.0.1 : 65462
+Connected to : 127.0.0.1 : 65464
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 0}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 65466
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 3}
+Request is processed
+Connected to : 127.0.0.1 : 65468
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 83}
+Request is processed
+Connected to : 127.0.0.1 : 65472
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65479
+Connected to : 127.0.0.1 : 65480
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65481
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65485
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 61}
+Request is processed
+Connected to : 127.0.0.1 : 65490
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65495
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 3}
+Request is processed
+Connected to : 127.0.0.1 : 65497
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 74}
+Request is processed
+Connected to : 127.0.0.1 : 65501
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 57}
+Request is processed
+Connected to : 127.0.0.1 : 65502
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65505
+Connected to : 127.0.0.1 : 65508
+Connected to : 127.0.0.1 : 65509
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65512
+Response to frontendservice: Response to frontendservice:  {'code': 404, 'message': 'Stock Over'}
+ {'code': 1}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 65515
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 9}
+Request is processed
+Connected to : 127.0.0.1 : 65519
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 71}
+Request is processed
+Connected to : 127.0.0.1 : 65523
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 0}
+Request is processed
+Connected to : 127.0.0.1 : 65526
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 51}
+Connected to : 127.0.0.1 : 65527
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65530
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 65534
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49154
+Connected to : 127.0.0.1 : 49157
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 404, 'message': 'Stock Over'}
+Request is processed
+Connected to : 127.0.0.1 : 49161
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49166
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 48}
+Request is processed
+Connected to : 127.0.0.1 : 49170
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49174
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49176
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 67}
+Request is processed
+Connected to : 127.0.0.1 : 49180
+Connected to : 127.0.0.1 : 49181
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 3}
+Request is processed
+Connected to : 127.0.0.1 : 49186
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49191
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49193
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 41}
+Request is processed
+Connected to : 127.0.0.1 : 49197
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49199
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49204
+Connected to : 127.0.0.1 : 49206
+Connected to : 127.0.0.1Response to frontendservice:  {'code': 1}
+ : 49207
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49210
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 404, 'message': 'Stock Over'}
+Request is processed
+Connected to : 127.0.0.1 : 49214
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 0}
+Request is processed
+Connected to : 127.0.0.1 : 49217
+Connected to : 127.0.0.1 : 49218
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 31}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 49224
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 65}
+Request is processed
+Connected to : 127.0.0.1 : 49226
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 31}
+Request is processed
+Connected to : 127.0.0.1 : 49228
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49230
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 31}
+Request is processed
+Connected to : 127.0.0.1 : 49232
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49238
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 64}
+Request is processed
+Connected to : 127.0.0.1 : 49241
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49246
+Connected to : 127.0.0.1 : 49247
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49249
+Response to frontendservice:  {'code': 1}
+Request is processedResponse to frontendservice 
+{'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 30}
+Connected to : 127.0.0.1Request is processed
+ : 49251
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 30}
+Request is processed
+Connected to : 127.0.0.1 : 49254
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49260
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 54}
+Request is processed
+Connected to : 127.0.0.1 : 49264
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49267
+Connected to : 127.0.0.1 : 49268
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 26}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 49275
+Connected to : 127.0.0.1 : 49276
+Response to frontendservice:  {'code': 1}
+Response to frontendservice Request is processed
+{'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 48}
+Request is processed
+Connected to : 127.0.0.1 : 49279
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49285
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 46}
+Request is processed
+Connected to : 127.0.0.1 : 49287
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49291
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 42}
+Request is processed
+Connected to : 127.0.0.1 : 49293
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49297
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 39}
+Request is processed
+Connected to : 127.0.0.1 : 49299
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49303
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 34}
+Request is processed
+Connected to : 127.0.0.1 : 49304
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 23}
+Request is processed
+Connected to : 127.0.0.1 : 49306
+Response to frontendservice:  {'code': 1}
+Request is processed
+
+I am here to Restock
+Did restock happen:  True
+Toys that are restocked: ['Tux', 'Elephant', 'Bird', 'Hippo', 'Jenga', 'Twister', 'Uno', 'Clue']
+
+Connected to : 127.0.0.1 : 49315
+Connected to : 127.0.0.1 : 49317
+Connected to : 127.0.0.1 : 49318
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 100}
+Request is processed
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 100}
+Request is processed
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 100}
+Request is processed
+Connected to : 127.0.0.1 : 49319
+Connected to : 127.0.0.1 : 49320
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 100}
+Request is processed
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 100}
+Request is processed
+Connected to : 127.0.0.1 : 49326
+Connected to : 127.0.0.1 : 49327
+Connected to : 127.0.0.1 : 49328
+Connected to : 127.0.0.1 : 49329
+Connected to : 127.0.0.1 : 49330
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49346
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 95}
+Request is processed
+Connected to : 127.0.0.1 : 49347
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 100}
+Request is processed
+Connected to : 127.0.0.1 : 49348
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 100}
+Connected to : 127.0.0.1 : 49349Request is processed
+
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 93}
+Connected to : 127.0.0.1 : 49350
+Request is processed
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 95}
+Request is processed
+Connected to : 127.0.0.1 : 49351
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 100}
+Request is processed
+Connected to : 127.0.0.1 : 49354
+Response to frontendservice:  Connected to : 127.0.0.1 {'code': 1}
+: 49356
+Request is processed
+Connected to : 127.0.0.1 : 49358
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49360
+Connected to : 127.0.0.1 : 49361
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49377
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 96}
+Request is processed
+Connected to : 127.0.0.1 : 49378
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 92}
+Request is processed
+Connected to : 127.0.0.1 : 49379
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 89}
+Request is processed
+Connected to : 127.0.0.1 : 49381
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 100}
+Request is processed
+Connected to : 127.0.0.1 : 49383
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49385
+Connected to : 127.0.0.1 : 49387
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49389
+Connected to : 127.0.0.1 : 49391
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49406
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 98}
+Request is processed
+Connected to : 127.0.0.1 : 49407
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 94}
+Request is processed
+Connected to : 127.0.0.1 : 49409
+Connected to : 127.0.0.1 : 49410
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 18}
+Connected to : 127.0.0.1 : Request is processed
+49412
+Connected to : Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 99}
+127.0.0.1Request is processed
+ : 49413
+Request is processed
+Connected to : 127.0.0.1 : 49414Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 18}
+
+Request is processedConnected to : 127.0.0.1 : 49416
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 100}
+
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49421
+Connected to : 127.0.0.1 : 49423
+Response to frontendservice:  {'code': 1}
+Connected to : 127.0.0.1 : 49425
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49428
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 89}
+Request is processed
+Connected to : 127.0.0.1 : 49432
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49441
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 86}
+Request is processed
+Connected to : 127.0.0.1 : 49444
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49446
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 96}
+Request is processed
+Connected to : 127.0.0.1 : 49447
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 96}
+Request is processed
+Connected to : 127.0.0.1 : 49450
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 87}
+Request is processed
+Connected to : 127.0.0.1 : 49451
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49454
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49457
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 91}
+Connected to : 127.0.0.1 : 49458
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49461
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49468
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 90}
+Request is processed
+Connected to : 127.0.0.1 : 49471
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49478
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 95}
+Request is processed
+Connected to : 127.0.0.1 : 49479
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49482
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49484
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 89}
+Request is processed
+Connected to : 127.0.0.1 : 49487
+Response to frontendservice Connected to : 127.0.0.1 : {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 84}
+49488Request is processed
+
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49493
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49496
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 84}
+Request is processed
+Connected to : 127.0.0.1 : 49499
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 17}
+Request is processed
+Connected to : 127.0.0.1 : 49502
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 87}
+Connected to : 127.0.0.1 : 49503
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49507
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49509
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 90}
+Request is processed
+Connected to : 127.0.0.1 : 49512
+Connected to : 127.0.0.1 : Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 31}
+Request is processed
+49513
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49517
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49523
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49528
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49533
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49536
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 90}
+Request is processed
+Connected to : 127.0.0.1 : 49540
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49542
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 86}
+Request is processed
+Connected to : 127.0.0.1 : 49546
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49548
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 91}
+Request is processed
+Connected to : 127.0.0.1 : 49552
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49556
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49560
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 78}
+Request is processed
+Connected to : 127.0.0.1 : 49564
+Connected to : 127.0.0.1 : 49565
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 81}Request is processed
+
+Request is processed
+Connected to : 127.0.0.1 : 49568
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 24}
+Request is processed
+Connected to : 127.0.0.1 : 49570
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 96}
+Request is processed
+Connected to : 127.0.0.1 : 49572
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 89}
+Connected to : 127.0.0.1 : 49575
+Request is processed
+Connected to : 127.0.0.1 : 49576
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49580
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49582
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 12}
+Request is processed
+Connected to : 127.0.0.1 : 49585
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49591
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 90}
+Request is processed
+Connected to : 127.0.0.1 : 49595
+Connected to : 127.0.0.1 : 49596
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 85}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49599
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49602
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 94}
+Request is processed
+Connected to : 127.0.0.1 : 49603
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 21}Connected to : 127.0.0.1 
+: 49604
+Request is processed
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 77}
+Request is processed
+Connected to : 127.0.0.1 : 49608
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 77}
+Request is processed
+Connected to : 127.0.0.1 : 49609
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49614
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49619
+Response to frontendservice: Connected to : 127.0.0.1 : 49620
+ {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49627
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 86}
+Request is processed
+Connected to : 127.0.0.1 : 49630
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49635
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 93}
+Request is processed
+Connected to : 127.0.0.1 : 49636
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 83}
+Request is processed
+Connected to : 127.0.0.1 : 49639
+Connected to : 127.0.0.1 : 49640
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 74}
+Request is processed
+Connected to :Response to frontendservice:  {'code': 1}
+Request is processed
+ 127.0.0.1 : 49643
+Connected to : 127.0.0.1 : 49645
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49647
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 79}
+Request is processed
+Connected to : 127.0.0.1 : 49651
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49659
+Response to frontendservice Connected to : {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 85}
+127.0.0.1 : 49660
+Request is processed
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 15}
+Request is processed
+Connected to : 127.0.0.1 : 49665
+Connected to : 127.0.0.1 : 49666
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49668
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 79}
+Request is processed
+Connected to : 127.0.0.1 : 49670
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 88}
+Request is processed
+Connected to : 127.0.0.1 : 49672
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49676
+Connected to : 127.0.0.1 : 49677
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49691
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49693
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 81}
+Request is processed
+Connected to : 127.0.0.1 : 49697
+Connected to : 127.0.0.1 : 49700
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49701
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49706
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49711
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 7}
+Request is processed
+Connected to : 127.0.0.1 : 49715
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49720
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 73}
+Request is processed
+Connected to : 127.0.0.1 : 49722
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 75}
+Request is processed
+Connected to : 127.0.0.1 : 49725
+Connected to : 127.0.0.1 : 49727
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49729
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 79}
+Request is processed
+Connected to : 127.0.0.1 : 49732
+Connected to : 127.0.0.1 : 49734
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49741
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 85}
+Request is processed
+Connected to : 127.0.0.1 : 49744
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49749
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 81}
+Request is processed
+Connected to : 127.0.0.1 : 49750
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 71}
+Request is processed
+Connected to : 127.0.0.1 : 49752
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49755
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49759
+Connected to : 127.0.0.1 : 49760
+Connected to : 127.0.0.1 : 49761
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 78}
+Request is processed
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49764
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 76}
+Request is processed
+Connected to : 127.0.0.1 : 49765
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 88}
+Request is processed
+Connected to : 127.0.0.1 : 49768
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 82}
+Request is processed
+Connected to : 127.0.0.1 : 49770
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49773
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49779
+Response to frontendservice {'name': 'Whale', 'price': 5.99, 'code': 1, 'quantity': 0}
+Request is processed
+Connected to : 127.0.0.1 : 49781
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 70}
+Request is processed
+Connected to : 127.0.0.1 : 49782
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 73}
+Request is processed
+Connected to : 127.0.0.1 : 49785
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 73}
+Request is processed
+Connected to : 127.0.0.1 : 49787
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 67}
+Request is processed
+Connected to : 127.0.0.1 : 49789
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49793
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49796
+Connected to : 127.0.0.1 : 49797
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49800
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 76}
+Request is processed
+Connected to : 127.0.0.1 : 49803
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49810
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 80}
+Request is processed
+Connected to : 127.0.0.1 : 49813
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49818
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 60}
+Request is processed
+Connected to : 127.0.0.1 : 49819
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 73}
+Request is processed
+Connected to : 127.0.0.1 : 49823
+Connected to : 127.0.0.1 : 49825
+Response to frontendservice:  {'code': 1}Connected to : 127.0.0.1 : 49826Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 71}
+
+
+Request is processedRequest is processed
+
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49829
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 76}
+Request is processed
+Connected to : 127.0.0.1 : 49830
+Connected to : 127.0.0.1 : 49833
+Connected to : 127.0.0.1 : 49834
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 14}
+Request is processed
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49839
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49849
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 56}
+Request is processed
+Connected to : 127.0.0.1 : 49852
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49854
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 70}
+Request is processed
+Connected to : 127.0.0.1 : 49858
+Connected to : 127.0.0.1 : 49859
+Connected to : 127.0.0.1 : 49861
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49865
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 72}
+Request is processed
+Connected to : 127.0.0.1 : 49868
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49876
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 55}
+Request is processed
+Connected to : 127.0.0.1 : 49880
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49882
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 69}
+Request is processed
+Connected to : 127.0.0.1 : 49885
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 73}
+Request is processed
+Connected to : 127.0.0.1 : 49886
+Connected to : 127.0.0.1 : 49888
+Connected to : 127.0.0.1 : 49891
+Response to frontendservice:  {'code': 1}
+Connected to : 127.0.0.1 : 49893
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49901
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 67}
+Request is processed
+Connected to : 127.0.0.1 : 49905
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49910
+Response to frontendservice Connected to : 127.0.0.1 : 49911
+{'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 54}
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 85}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 49916
+Connected to : 127.0.0.1 : 49918
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 63}Connected to : 127.0.0.1 : 49919
+
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49921
+Response to frontendservice: Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 69}
+Request is processed
+ {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49922
+Connected to : 127.0.0.1 : 49925
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49928
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49942
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 51}
+Request is processed
+Connected to : 127.0.0.1 : 49943
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 82}
+Request is processed
+Connected to : 127.0.0.1 : 49945
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 68}
+Request is processed
+Connected to : 127.0.0.1 : 49947
+Connected to : 127.0.0.1 : 49948
+Connected to : 127.0.0.1 : 49949
+Connected to : 127.0.0.1 : 49950
+Response to frontendservice:  Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 72}{'code': 1}
+
+Request is processed
+Connected to : 127.0.0.1 : Request is processed
+49952
+Response to frontendservice: Response to frontendservice {'code': 1}
+ {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 72}
+Request is processed
+Request is processedConnected to : 
+127.0.0.1 : 49956
+Connected to : 127.0.0.1 : 49957
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 59}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 49962
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49968
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 65}
+Request is processed
+Connected to : 127.0.0.1 : 49970
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 69}
+Request is processed
+Connected to : 127.0.0.1 : 49974
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 47}
+Request is processed
+Connected to : 127.0.0.1 : 49975
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49979
+Connected to : 127.0.0.1 : 49980
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 57}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49984
+Connected to : 127.0.0.1 : 49985
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 49988
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 79}
+Request is processed
+Connected to : 127.0.0.1 : 49991
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50000
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 64}
+Request is processed
+Connected to : 127.0.0.1 : 50004
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50007
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 64}
+Request is processed
+Connected to : 127.0.0.1 : 50008
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 76}
+Connected to : 127.0.0.1 : 50009
+Request is processed
+Connected to : 127.0.0.1 : 50010
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 68}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 50015
+Connected to : 127.0.0.1 : 50016
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50018
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50026
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 49}
+Request is processed
+Connected to : 127.0.0.1 : 50030
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50035
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 65}
+Request is processed
+Connected to : 127.0.0.1 : 50036
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 75}
+Request is processed
+Connected to : 127.0.0.1 : 50038
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 13}
+Request is processed
+Connected to : 127.0.0.1 : 50042
+Connected to : 127.0.0.1 : 50043
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50046
+Connected to : 127.0.0.1 : 50048
+Response to frontendservice: Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 43}
+ {'code': 1}
+Request is processedRequest is processed
+
+Connected to : 127.0.0.1 : 50052
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50056
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 68}
+Request is processed
+Connected to : 127.0.0.1 : 50060
+Connected to : 127.0.0.1 : 50062
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 46}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50065
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50068
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 11}
+Request is processed
+Connected to : 127.0.0.1 : 50069
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 39}
+Request is processed
+Connected to : 127.0.0.1 : 50073
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50076
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50080
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 63}
+Request is processed
+Connected to : 127.0.0.1 : 50084
+Connected to : 127.0.0.1 : 50085
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50091
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 37}
+Request is processed
+Connected to : 127.0.0.1 : 50095
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50102
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50104
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50107
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 9}
+Request is processed
+Connected to : 127.0.0.1 : 50109
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 54}
+Request is processed
+Connected to : 127.0.0.1 : 50111
+Connected to : 127.0.0.1 : 50114
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50122
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50124
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 61}
+Request is processed
+Connected to : 127.0.0.1 : 50128
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50130
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 61}
+Request is processed
+Connected to : 127.0.0.1 : 50132
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 44}
+Request is processed
+Connected to : 127.0.0.1 : 50136
+Connected to : 127.0.0.1 : 50137
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 65}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50140
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 60}
+Request is processed
+Connected to : 127.0.0.1 : 50142
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50145
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50148
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50154
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 7}
+Request is processed
+Connected to : 127.0.0.1 : 50158
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50163
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 64}
+Request is processed
+Connected to : 127.0.0.1 : 50164
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 59}
+Request is processed
+Connected to : 127.0.0.1 : 50167
+Response to frontendservice:  {'code': 1}
+Connected to : 127.0.0.1 : 50170
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50172
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 4}
+Request is processed
+Connected to : 127.0.0.1 : 50177
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50178
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50183
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 33}
+Request is processed
+Connected to : 127.0.0.1 : 50185
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 48}
+Request is processed
+Connected to : 127.0.0.1 : 50187
+Response to frontendservice:  {'code': 1}
+Connected to : 127.0.0.1 Request is processed
+: 50189
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 73}
+Request is processed
+Connected to : 127.0.0.1 : 50194
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50197
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 57}
+Request is processed
+Connected to : 127.0.0.1 : 50200
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50205
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50207
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 31}
+Request is processed
+Connected to : 127.0.0.1 : 50209
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 58}
+Request is processed
+Connected to : 127.0.0.1 : 50211
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50214
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50219
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 43}
+Request is processed
+Connected to : 127.0.0.1 : 50223
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50227
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50230
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 47}
+Request is processed
+Connected to : 127.0.0.1 : 50232
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 29}
+Request is processed
+Connected to : 127.0.0.1 : 50234
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 55}
+Request is processed
+Connected to : 127.0.0.1 : 50235
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 55}
+Request is processed
+Connected to : 127.0.0.1 : 50238
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50241
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50244
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 50}
+Request is processed
+Connected to : 127.0.0.1 : 50245
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 1}
+Connected to : 127.0.0.1 : 50247
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 56}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 50251
+Connected to : 127.0.0.1 : 50252
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50261
+Connected to : 127.0.0.1 : 50262
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50270
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50272
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 56}
+Request is processed
+Connected to : 127.0.0.1 : 50276
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50279
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 50}
+Request is processed
+Connected to : 127.0.0.1 : 50282
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50284
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 39}
+Request is processed
+Connected to : 127.0.0.1 : 50288
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50292
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50296
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 70}
+Request is processed
+Connected to : 127.0.0.1 : 50298
+Response to frontendservice {'name': 'Lego', 'price': 4.79, 'code': 1, 'quantity': 0}
+Request is processed
+Connected to : 127.0.0.1 : 50304
+Connected to : 127.0.0.1 : 50305
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50307
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 52}
+Request is processed
+Connected to : 127.0.0.1 : 50309
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 20}
+Connected to : 127.0.0.1Request is processed
+ : 50310
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50314
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50318
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50327
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 48}
+Request is processed
+Connected to : 127.0.0.1 : 50331
+Connected to : 127.0.0.1 : 50333
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 41}
+Request is processed
+Connected to : 127.0.0.1 : 50334
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 17}
+Request is processed
+Connected to : 127.0.0.1 : 50337
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 17}
+Request is processed
+Connected to : 127.0.0.1 : 50339
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50341
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 55}
+Request is processed
+Connected to : 127.0.0.1 : 50343
+Response to frontendservice:  {'code': 1}
+Connected to : 127.0.0.1 Request is processed: 50347
+
+Connected to : 127.0.0.1 : 50348
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50354
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50363
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 58}
+Request is processed
+Connected to : 127.0.0.1 : 50367
+Connected to : 127.0.0.1 : 50368
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 13}
+Request is processed
+Connected to : 127.0.0.1 : 50369
+Request is processed
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 49}
+Request is processed
+Connected to : 127.0.0.1 : 50373
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50375
+Connected to : 127.0.0.1 : 50378
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50379
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50392
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50395
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 48}
+Connected to : 127.0.0.1 : 50396
+Response to frontendservice Connected to : 127.0.0.1 : 50398
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 53}
+{'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 49}Request is processed
+
+Request is processed
+Connected to : 127.0.0.1 : Request is processed
+50401
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50405
+Connected to : 127.0.0.1 : 50407
+Connected to : 127.0.0.1 : 50406
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 38}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Connected to : 127.0.0.1 : 50410
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50414
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 39}
+Request is processed
+Connected to : 127.0.0.1 : 50417
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50425
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 49}
+Request is processed
+Connected to : 127.0.0.1 : 50427
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 50}
+Request is processed
+Connected to : 127.0.0.1 : 50430
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50433
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 46}
+Request is processed
+Connected to : 127.0.0.1 : 50434
+Connected to : 127.0.0.1 : 50438
+Response to frontendservice:  {'code': 1}
+Connected to : 127.0.0.1 : 50439
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50444
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50450
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 46}
+Request is processed
+Connected to : 127.0.0.1 : 50454
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50459
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 38}
+Request is processed
+Connected to : 127.0.0.1 : 50462
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 7}
+Request is processed
+Connected to : 127.0.0.1 : 50463
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50466
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50469
+Connected to : 127.0.0.1 : 50472
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50478
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 29}
+Request is processed
+Connected to : 127.0.0.1 : 50482
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50487
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 41}
+Request is processed
+Connected to : 127.0.0.1 : 50491
+Connected to : 127.0.0.1 : 50492
+Connected to : 127.0.0.1 : 50494
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 25}Request is processed
+
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50497
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 34}
+Request is processed
+Connected to : 127.0.0.1 : 50499
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50502
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50504
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 39}
+Request is processed
+Connected to : 127.0.0.1 : 50508
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50517
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50519
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 34}
+Request is processed
+Connected to : 127.0.0.1 : 50523
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 45}
+Request is processed
+Connected to : 127.0.0.1 : 50525
+Connected to : 127.0.0.1 : 50526
+Connected to : 127.0.0.1 : 50527
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50529
+Connected to : 127.0.0.1 : 50530
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 20}
+Request is processed
+Connected to : 127.0.0.1 : 50537
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50546
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 31}
+Request is processed
+Connected to : 127.0.0.1 : 50549
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50552
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 45}
+Request is processed
+Connected to : 127.0.0.1 : 50554
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 46}
+Request is processed
+Connected to : 127.0.0.1 : 50555
+Connected to : 127.0.0.1 : 50556
+Connected to : 127.0.0.1 : 50557
+Response to frontendservice {'name': 'Uno', 'price': 9.11, 'code': 1, 'quantity': 0}
+Request is processed
+Connected to : 127.0.0.1 : 50559
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 17}
+Request is processed
+Connected to : 127.0.0.1 : 50562
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50565
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50569
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 22}
+Request is processed
+Connected to : 127.0.0.1 : 50573
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50582
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 17}
+Request is processed
+Connected to : 127.0.0.1 : 50586
+Connected to : 127.0.0.1 : 50587
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 41}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50590
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 44}
+Request is processed
+Connected to : 127.0.0.1 : 50591
+Connected to : 127.0.0.1 : 50592
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 38}
+Request is processed
+Connected to : 127.0.0.1 : 50594
+Response to frontendservice:  {'code': 1}
+Connected to : 127.0.0.1 Request is processed
+: 50598
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50600
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50610
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 44}
+Request is processed
+Connected to : 127.0.0.1 : 50614
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50617
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 36}
+Request is processed
+Connected to : 127.0.0.1 : 50618
+Connected to : 127.0.0.1 : 50619
+Connected to : 127.0.0.1 : 50620
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 31}
+Response to frontendservice Connected to : 127.0.0.1 Request is processed
+{'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 15}
+: 50622
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 12}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 50627
+Connected to : 127.0.0.1 : 50629
+Connected to : 127.0.0.1 : 50631
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50634
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 33}
+Request is processed
+Connected to : 127.0.0.1 : 50638
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50648
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 22}
+Request is processed
+Connected to : 127.0.0.1 : 50652
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50654
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 7}
+Request is processed
+Connected to : 127.0.0.1 : 50655
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50658
+Connected to : 127.0.0.1 : 50659
+Connected to : 127.0.0.1 : 50660
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50676
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 7}
+Request is processed
+Connected to : 127.0.0.1 : 50677
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 42}
+Request is processed
+Connected to : 127.0.0.1 : 50678
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 41}
+Request is processed
+Connected to : 127.0.0.1 : 50680
+Connected to : 127.0.0.1 : 50681
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 20}
+Request is processed
+Connected to : 127.0.0.1 : 50683
+Connected to : 127.0.0.1 : 50684
+Connected to : 127.0.0.1 : 50686
+Response to frontendservice: Response to frontendserviceConnected to : 127.0.0.1  {'code': 1}: 
+ {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 20}Request is processed
+50688
+
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50691
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50706
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 38}
+Request is processed
+Connected to : 127.0.0.1 : 50707
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 12}
+Request is processed
+Connected to : 127.0.0.1 : 50709
+Connected to : 127.0.0.1 : 50710
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 36}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50713
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 4}
+Connected to : 127.0.0.1 : 50714
+Connected to : 127.0.0.1 : 50715
+Connected to : 127.0.0.1 : 50716
+Request is processed
+Connected to : 127.0.0.1 : 50719
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 4}
+Request is processed
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 30}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50725
+Response to frontendservice:  {'code': 404, 'message': 'Stock Over'}
+Request is processed
+Connected to : 127.0.0.1 : 50727
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50731
+Connected to : 127.0.0.1 Response to frontendservice:  {'code': 1}
+: 50732
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50737
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50746
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 5}
+Request is processed
+Connected to : 127.0.0.1 : 50751
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 34}
+Request is processed
+Connected to : 127.0.0.1 : 50752
+Connected to : 127.0.0.1 : 50753
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 32}
+Request is processed
+Connected to : 127.0.0.1 : 50754
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 35}
+Connected to : 127.0.0.1 : 50756
+Connected to : 127.0.0.1 : 50757
+Connected to : 127.0.0.1 : 50758
+Connected to : 127.0.0.1 Response to frontendservice:  {'code': 1}
+: 50760
+Request is processed
+Response to frontendservice: Request is processed
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 35}
+Response to frontendserviceRequest is processed
+ {'code': 1}
+ {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 19}
+Request is processed
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50767
+Connected to : 127.0.0.1 : 50769
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50776
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50782
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 33}
+Request is processed
+Connected to : 127.0.0.1 : 50783
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 15}
+Request is processed
+Connected to : 127.0.0.1 : 50786
+Response to frontendservice:  {'code': 1}
+Connected to : 127.0.0.1 : 50789
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50793
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50796
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50803
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50809
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 26}
+Request is processed
+Connected to : 127.0.0.1 : 50811
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50813
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50816
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50819
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 29}
+Request is processed
+Connected to : 127.0.0.1 : 50821
+Connected to : 127.0.0.1 : 50822
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 3}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 50829
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50833
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 6}
+Request is processed
+Connected to : 127.0.0.1 : 50836
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 20}
+Request is processed
+Connected to : 127.0.0.1 : 50840
+Connected to : 127.0.0.1 : 50841
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50846
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 25}
+Request is processed
+Connected to : 127.0.0.1 : 50850
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50852
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50857
+Response to frontendservice {'name': 'Elephant', 'price': 6.99, 'code': 1, 'quantity': 0}
+Request is processed
+Connected to : 127.0.0.1 : 50859
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 24}
+Request is processed
+Connected to : 127.0.0.1 : 50863
+Connected to : 127.0.0.1 : 50864
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 22}
+Request is processed
+Connected to : 127.0.0.1 : 50866
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 6}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 50870
+Connected to : 127.0.0.1 : 50871
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 13}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50874
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50877
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50882
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50890
+Response to frontendservice {'name': 'Jenga', 'price': 8.17, 'code': 1, 'quantity': 0}
+Request is processed
+Connected to : 127.0.0.1 : 50892
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 6}
+Request is processed
+Connected to : 127.0.0.1 : 50896
+Connected to : 127.0.0.1 : 50897
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 5}
+Request is processed
+Connected to : 127.0.0.1 : 50900
+Connected to : 127.0.0.1 : 50902
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50903
+Response to frontendservice:  {'code': 1}
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 4}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 50906
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50910
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50916
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 18}
+Request is processed
+Connected to : 127.0.0.1 : 50920
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50925
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 19}
+Connected to : 127.0.0.1 : 50927
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 3}
+Request is processedRequest is processed
+
+Connected to : 127.0.0.1 : 50930
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50933
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50934
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 16}
+Request is processed
+Connected to : 127.0.0.1 : 50939
+Response to frontendservice:  {'code': 404, 'message': 'Stock Over'}
+Request is processed
+Connected to : 127.0.0.1 : 50940
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50942
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 18}
+Request is processed
+Connected to : 127.0.0.1 : 50943
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 18}
+Request is processed
+Connected to : 127.0.0.1 : 50946
+Connected to : 127.0.0.1 : 50949
+Response to frontendservice:  {'code': 1}
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50953
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50962
+Response to frontendservice {'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 3}
+Request is processed
+Connected to : 127.0.0.1 : 50966
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50969
+Response to frontendservice {'name': 'Tux', 'price': 10.99, 'code': 1, 'quantity': 0}
+Request is processed
+Connected to : 127.0.0.1 : 50970
+Response to frontendservice:  {'code': 404, 'message': 'Stock Over'}
+Request is processed
+Connected to : 127.0.0.1 : 50973
+Response to frontendservice:  {'code': 1}
+Connected to : 127.0.0.1 : 50975
+Response to frontendservice Connected to :{'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 4}
+Request is processed
+ Request is processed127.0.0.1 : 50977
+
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 4}
+Request is processed
+Connected to : 127.0.0.1 : 50979
+Response to frontendservice:  {'code': 404, 'message': 'Stock Over'}
+Request is processed
+Connected to : 127.0.0.1 : 50984
+Connected to : 127.0.0.1 : 50985
+Connected to : 127.0.0.1 : 50986
+Response to frontendservice:  {'code': 1}
+Response to frontendserviceRequest is processed
+Response to frontendservice:  {'code': 404, 'message': 'Stock Over'}
+ {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 9}
+Request is processed
+Request is processed
+Connected to : 127.0.0.1 : 50991
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50992
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 50994
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 12}Connected to : 127.0.0.1 
+: 50995
+Connected to : 127.0.0.1 :Response to frontendservice  Request is processed
+{'name': 'Twister', 'price': 6.45, 'code': 1, 'quantity': 0}
+Request is processed
+50997
+Response to frontendservice:  {'code': 404, 'message': 'Stock Over'}
+Request is processed
+Connected to : 127.0.0.1 : 51000
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 51004
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 51008
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 51013
+Response to frontendservice {'name': 'Hippo', 'price': 7.11, 'code': 1, 'quantity': 0}
+Request is processed
+Connected to : 127.0.0.1 : 51016
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 7}
+Request is processed
+Connected to : 127.0.0.1 : 51019
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 51021
+Response to frontendservice {'name': 'Bird', 'price': 7.99, 'code': 1, 'quantity': 8}
+Request is processed
+Connected to : 127.0.0.1 : 51025
+Response to frontendservice:  {'code': 1}
+Connected to : 127.0.0.1 : 51027
+Request is processed
+Response to frontendservice:  {'code': 1}
+Request is processed
+Connected to : 127.0.0.1 : 51034
+Response to frontendservice {'name': 'Clue', 'price': 5.73, 'code': 1, 'quantity': 3}
+Request is processed
+Connected to : 127.0.0.1 : 51036
+Response to frontendservice:  {'code': 1}
+Request is processed
+
+I am here to Restock
+Did restock happen:  True
+Toys that are restocked: ['Tux', 'Whale', 'Elephant', 'Hippo', 'Jenga', 'Twister', 'Uno', 'Clue', 'Lego']
+
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
+
+I am here to Restock
+Did restock happen:  False
