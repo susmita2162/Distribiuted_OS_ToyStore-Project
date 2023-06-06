@@ -1,29 +1,18 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7635287&assignment_repo_type=AssignmentRepo)
-Compsci 677: Distributed and Operating Systems
+Distributed and Operating Systems
 
-Spring 2022
-
-# Lab 3: Caching, Replication and Fault Tolerance
-
-## Team Members
-
-You may work in groups of 2 for this lab assignment. Please list the names of the group members
-here. You may replace this readme file with your own documentation, in which case, please list the
-names of all team members at the top of the readme.
+Caching, Replication and Fault Tolerance
 
 ## Goals and Learning Outcomes
 
-The lab has the following learning outcomes with regards to concepts covered in class.
+We have implemented this application to have an understanding about:
 
-* Learn about caching, replication, and consistency.
-* Learn about the concepts of fault tolerance and high availability.
-* Learn about how to deploy your application on the cloud.
+* Caching, replication, and consistency.
+* Concepts of fault tolerance and high availability.
+* Deploying the application on the cloud.
 
 ## Lab Description
 
-This project is based on lab 2. You can reuse some of the code you wrote in lab 2 if you want. You
-are going to add caching, replication, and fault tolerance to the toy store application that we have
-implemented in the previous labs. Here are some basic requirements:
+We have implemented the application with the below requirements:
 
 1.  The toy store application consists of three microservices: a front-end service, a catalog
     service, and an order service.
@@ -43,21 +32,14 @@ implemented in the previous labs. Here are some basic requirements:
         top-level `error` object should be returned. The `error` object should contain two fields:
         `code` and `message`
 
-    Since in this lab we will focus on higher level concepts, you can use a web framework like
-    [`Django`](https://github.com/perwendel/spark), [`Flask`](https://github.com/pallets/flask),
-    [`Spark`](https://github.com/perwendel/spark) to implement your front-end service. You can also
-    reuse the code you wrote in lab 2 if you prefer.
 
-3.  Like in lab 2, you can decide the interfaces used between the microservices. Each microservice
-    still need to be able to handle requests concurrently. You can use any concurrency models
+3.  Each microservice should be able to handle requests concurrently. You can use any concurrency models
     covered in class.
 
-4.  Add some variety to the toy offering by initializing your catalog with at least 10 different
-    toys( You can consider adding some toys from the [National Toy Hall of
-    Fame](https://en.wikipedia.org/wiki/National_Toy_Hall_of_Fame)). Each toy should have an initial
-    stock of 100. Also the catalog service will periodically restock the toys that are out of stock.
-    The catalog service should check remaining quantity of every toy every 10 seconds, if a toy is
-    out of stock the catalog service will restock it to 100.
+4.  Added some variety to the toy offering by initializing the catalog with at least 10 different
+    toys. Each toy should have an initial stock of 100. Also the catalog service will periodically 
+    restock the toys that are out of stock. The catalog service should check remaining quantity of
+    every toy every 10 seconds, if a toy is out of stock the catalog service will restock it to 100.
 
 5.  The client first queries the front-end service with a random toy. If the returned quantity is
     greater than zero, with probability p it will send an order request (make p an variable that's
@@ -85,9 +67,8 @@ remove the corresponding item from the cache.
 To make sure that our toy store doesn't lose any order information due to crash failures, we want to
 replicate the order service. When you start the toy store application, you should first start the
 catalog service. Then you start three replicas of the order service, each with a unique id number
-and its own database file. There should always be 1 leader node and the rest are follower nodes. You
-do **NOT** need to implement a leader election algorithm. Instead the front-end service will always
-try to pick the node with the highest id number as the leader.
+and its own database file. There should always be 1 leader node and the rest are follower nodes. 
+Front-end service will always try to pick the node with the highest id number as the leader.
 
 When the front-end service starts, it will read the id number and address of each replica of the
 order service (this can be done using configuration files/environment variables/command line
@@ -102,8 +83,8 @@ will propagate the information of the new order to the follower nodes to maintai
 
 ## Part 3: Fault Tolerance
 
-In this part you will handle failures of the order service. In this lab you only need to deal with
-crash failure tolerance rather than Byzantine failure tolerance.
+In this part we will handle failures of the order service. In this we dealt with crash failure 
+tolerance rather than Byzantine failure tolerance.
 
 First We want to make sure that when any replica crashes (including the leader), toy purchase
 requests and order query requests can still be handled and return the correct result. To achieve
@@ -117,55 +98,24 @@ number that it has and ask the other replicas what orders it has missed since th
 
 ## Part 4: Testing and Evaluation with Deployment on AWS
 
-First, write some simple test cases to verify that your code works as expected. You should test both
-each individual microservice as well as the whole application. Submit your test cases and test
-output in a test directory.
+First, we have written some simple test cases to verify that the code works as expected. We tested both
+each individual microservice as well as the whole application. The test cases and test
+output are present in a test directory.
 
-Next, deploy your application on an `m5a.xlarge` instance in the `us-east-1` region on AWS. We will
-provide instructions on how to do this in homework 6. Run 5 clients on your local machine. Measure
-the latency seen by each client for different type requests. Change the probability p of a follow up
-purchase request from 0 to 80%, with an increment of 20%, and record the result for each p setting.
-Make simple plots showing the values of p on the X-axis and the latency of different types of
-request on the y-axis. Also do the same experiments but with caching turned off, estimate how much
+Next, we deployed the application on an `m5a.xlarge` instance in the `us-east-1` region on AWS. 
+We ran 5 clients on the local machine. Measured the latency seen by each client for different 
+type requests. We have changed the probability p of a follow up purchase request from 0 to 80%, 
+with an increment of 20%, and recorded the result for each p setting.
+Made simple plots showing the values of p on the X-axis and the latency of different types of
+request on the y-axis. We did the same experiments but with caching turned off, estimated how much
 benefits does caching provide by comparing the results.
 
-Finally, simulate crash failures by killing a random order service replica while the clients is
-running, and then bring it back online after some time. Repeat this experiment several times and
-make sure that you test the case when the leader is killed. Can the clients notice the failures
-(either during order requests or the final order checking phase) or are they transparent to the
-clients? Do all the order service replicas end up with the same database file?
+Finally, we simulated crash failures by killing a random order service replica while the clients is
+running, and then brought it back online after some time. Repeated this experiment several times and
+made sure that we test the case when the leader is killed. 
 
-## What to submit
+## Code base
 
-At the top of this README file add the name(s) and umass email address(es) of all the team members.
-Also if you are working in a group, briefly describe how the work is divided.
-
-You solution should contain source code for both parts separately. Inside the src directory, you
-should have a separate folder for each component/microservice, e.g., a `client` folder for client
+ We have kept the source code for both parts separately. Inside the src directory, we
+ have a separate folder for each component/microservice, e.g., a `client` folder for client
 code, a `front-end` folder for the front-end service, etc.
-
-A short README file on how to run your code. Include build/make files if you created any, otherwise
-the README instructions on running the code should provide details on how to do so.
-
-Submit the following additional documents inside the docs directory. 1) A Brief design document (1
-to 2 pages) that explains your design choices (include citations, if you used referred to Internet
-sources), 2) An Output file (1 to 2 pages), showing sample output or screenshots to indicate your
-program works, and 3) An Evaluation doc (2 to 3 pages), for part 4 showing plots and making
-observations.
-
-## Grading Rubric
-
-Parts 1-3 account for 70% of the total lab grade:
-
-* Code should have inline comments (5%).
-* GitHub repo should have adequate commits and meaningful commit messages (5%).
-* Source code should build and work correctly (40%).
-* A descriptive design doc should be submitted (15%).
-* An output file should be included (5%).
-
-Parts 4 account for 30% of the total lab grade:
-
-* Should provide steps in your eval docs about how you deployed your application on AWS. Include
-  scripts in your repo if needed (5%).
-* An eval doc with measurement results and plots (15%).
-* Analysis of the results and answers to the questions in part 3 (10%).
